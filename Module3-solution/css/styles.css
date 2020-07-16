@@ -63,7 +63,7 @@ body {
 @media(max-width: 767px) {
     #main-content {
         margin-left: 20px;
-        margin-right: 20px;
+        margin-right: 10px;
     }
     .navbar-brand h1 {
         font-size: 28px;
