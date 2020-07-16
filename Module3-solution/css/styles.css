@@ -1,0 +1,25 @@
+body {
+    color: white;
+    font-size: 16px;
+    background-color: gray;
+}
+
+#header-nav {
+    background-color: rgb(14, 8, 49);
+    border: 0;
+    border-radius: 0;
+}
+
+.navbar-brand h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+}
